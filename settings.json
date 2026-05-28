@@ -31,10 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "lol",
-        "W OWNER",
-        "I like to play Minecraft!!"
+        
       ]
     },
     "chat-log": true,
